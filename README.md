@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="DHask.png" width="200" alt="DHask Logo">
+</p>
+
+<h1 align="center">DevStacks DHask</h1>
+
 # DHask 🧠
 
 **DHask** is DevStacks’ rebranded fork of [GHC (Glasgow Haskell Compiler)](https://github.com/ghc/ghc), designed to fit into the DevStacks developer ecosystem via [DLangSDK](https://github.com/DevStacks-io/DLangSDK).
